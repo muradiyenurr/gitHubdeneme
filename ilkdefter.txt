@@ -1,0 +1,2 @@
+ilk git denemem
+gitignore ile gizlenmesini istediğin klasörü içine atıp görmezden gelebiliriz
